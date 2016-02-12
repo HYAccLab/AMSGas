@@ -1,0 +1,9 @@
+[cRIO-Carbondioxide]
+cRIO-Carbondioxide = "10.2.0.20"
+
+[cRIO-Carbondioxide 2]
+cRIO-Carbondioxide 2 = "0.0.0.0"
+
+[My Computer]
+My Computer = "10.0.0.5"
+

@@ -17,8 +17,7 @@
 		<Item Name="Invoke IL Action Msg.lvclass" Type="LVClass" URL="../Interlock Messages/Invoke IL Action Msg/Invoke IL Action Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for Interlock Chain" Type="Folder">
-		<Item Name="Launch Interlock Msg.lvclass" Type="LVClass" URL="../Interlock Chain Messages/Launch Interlock Msg/Launch Interlock Msg.lvclass"/>
-		<Item Name="Launch Nested Actors Msg.lvclass" Type="LVClass" URL="../Interlock Chain Messages/Launch Nested Actors Msg/Launch Nested Actors Msg.lvclass"/>
+		<Item Name="Launch Nested Actors Msg.lvclass" Type="LVClass" URL="../Interlock Chain Messages/(Depricated) Launch Nested Actors Msg/Launch Nested Actors Msg.lvclass"/>
 		<Item Name="Process Interlock Msg.lvclass" Type="LVClass" URL="../Interlock Chain Messages/Process Interlock Msg/Process Interlock Msg.lvclass"/>
 	</Item>
 	<Item Name="Sample" Type="Folder">

@@ -4,6 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Interlocks" Type="Folder">
+		<Item Name="Interlock Sample.lvclass" Type="LVClass" URL="../Interlocks/Interlock Sample/Interlock Sample.lvclass">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+	</Item>
 	<Item Name="Subs" Type="Folder">
 		<Item Name="Sample in Container.vi" Type="VI" URL="../subs/Sample in Container.vi"/>
 	</Item>

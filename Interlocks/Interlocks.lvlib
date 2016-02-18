@@ -19,9 +19,6 @@
 	<Item Name="Messages for Interlock Chain" Type="Folder">
 		<Item Name="Process Interlock Msg.lvclass" Type="LVClass" URL="../Interlock Chain Messages/Process Interlock Msg/Process Interlock Msg.lvclass"/>
 	</Item>
-	<Item Name="Sample" Type="Folder">
-		<Item Name="Interlock Sample.lvclass" Type="LVClass" URL="../Interlock Sample/Interlock Sample.lvclass"/>
-	</Item>
 	<Item Name="U16" Type="Folder">
 		<Item Name="IL U16 Pass.lvclass" Type="LVClass" URL="../Interlock U16/Pass/IL U16 Pass.lvclass"/>
 		<Item Name="IL U16 Seize.lvclass" Type="LVClass" URL="../Interlock U16/Seize/IL U16 Seize.lvclass"/>
